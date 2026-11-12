@@ -39,10 +39,25 @@ Tools
 - 🧠 DSA & problem solving: Developing strong foundations through consistent practice.
 - 🤖 AI/ML: Learning to work with data and turn models into practical solutions.
 - 📦 Open source: Collaborating, sharing what I build, and learning from other developers.
-📊 GitHub Activity
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=dark" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=dark" alt="Most used languages" />
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub contribution streak" /></div>Note: The language chart reflects the code in my public repositories, not a ranking of my skills.
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=wadhwahemant&show_icons=true&theme=dark&hide_border=true"
+alt="Hemant's GitHub Stats" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwahemant&layout=compact&theme=dark&hide_border=true"
+alt="Most Used Languages" />
+
+<br/>
+
+<img
+src="https://streak-stats.demolab.com?user=wadhwahemant&theme=dark&hide_border=true"
+alt="GitHub Streak" />
+
+</div>
 
 🤝 Let's Connect
 <p>
